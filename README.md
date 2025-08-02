@@ -6,6 +6,8 @@ Apa Itu Arduino?
 Arduino adalah papan mikrokontroler open-source yang digunakan untuk membuat proyek elektronik secara mudah. Arduino dapat diprogram menggunakan komputer dan digunakan untuk mengontrol LED, motor, sensor, dan banyak komponen lainnya.
 
 📷 Gambar Arduino Uno:
+<img width="588" height="569" alt="image" src="https://github.com/user-attachments/assets/6abd1ac0-8480-4d13-b9e8-e5096da30d42" />
+
 <img width="1002" height="550" alt="image" src="https://github.com/user-attachments/assets/320294b7-5b0b-44d1-aa3b-d3fcc01aa6a6" />
 
 
@@ -47,10 +49,10 @@ Alat dan Bahan:
 
 
 💻 Kode Program:
-<img width="607" height="398" alt="image" src="https://github.com/user-attachments/assets/e7ace2ec-722c-4d89-8281-27b1f79daf31" />
+<img width="607" height="398" alt="image" src="https://github.com/user-attachments/assets/e7ace2ec-722c-4d89-8281-27b1f79daf31"/>
 
 💻 Skema Rangkaian:
-<img width="512" height="392" alt="image" src="https://github.com/user-attachments/assets/645a1a22-320a-4a78-b225-c4c954b24fcb" />
+<img width="512" height="392" alt="image" src="https://github.com/user-attachments/assets/645a1a22-320a-4a78-b225-c4c954b24fcb"/>
 
 
 
