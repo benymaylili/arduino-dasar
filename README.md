@@ -9,8 +9,6 @@ Arduino adalah papan mikrokontroler open-source yang digunakan untuk membuat pro
 📷 Gambar Arduino Uno:
 Screen gambar : https://prnt.sc/d3t6tuBl4umM
 
-
-Bagian-Bagian pada Arduino Uno
 📷 Gambar: Bagian-bagian Arduino Uno
 Penjelasan Singkat Bagian-bagian Penting:
 
