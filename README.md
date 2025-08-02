@@ -1,4 +1,7 @@
+Memahami & mengenal microcontroller (Arduino) serta komponen elektronika pendukung lainya.
+
 📘 Materi Dasar Arduino
+
 Apa Itu Arduino?
 Arduino adalah papan mikrokontroler open-source yang digunakan untuk membuat proyek elektronik secara mudah. Arduino dapat diprogram menggunakan komputer dan digunakan untuk mengontrol LED, motor, sensor, dan banyak komponen lainnya.
 
