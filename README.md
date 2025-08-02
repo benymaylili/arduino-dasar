@@ -62,7 +62,8 @@ Coding C++ arduino = https://prnt.sc/8ALPH2NT1B4N
 2. Arduino menggunakan bahasa pemrograman C++ dasar.
 3. Dengan Arduino, siswa bisa belajar logika, berpikir sistematis, dan kreativitas melalui eksperimen nyata.
 
-8. Tugas Praktik
+
+Tugas Praktik
 Buat proyek kecil menggunakan Arduino dan LED:
 1. LED berkedip cepat dan lambat
 2. LED menyala ketika tombol ditekan
