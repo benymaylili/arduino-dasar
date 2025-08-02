@@ -8,11 +8,15 @@ Arduino adalah papan mikrokontroler open-source yang digunakan untuk membuat pro
 📷 Gambar Arduino Uno:
 <img width="1002" height="550" alt="image" src="https://github.com/user-attachments/assets/320294b7-5b0b-44d1-aa3b-d3fcc01aa6a6" />
 
+
+
 📷 Gambar: Bagian-bagian Arduino Uno
 Penjelasan Singkat Bagian-bagian Penting:
 
 🤖 Bagian Arduino	Fungsi
 <img width="840" height="364" alt="image" src="https://github.com/user-attachments/assets/98f28111-1301-43e2-b24e-2e7879d84869" />
+
+
 
 📋 Software Arduino (Arduino IDE)
 Arduino IDE (Intergrated Development Environment) adalah software open source yang dikembangkan oleh Arduino untuk memrogram Arduino.  Arduino IDE ini dapat di-download di situs resmi
@@ -23,6 +27,8 @@ digunakan pada Arduino disebut dengan istilah Arduino “sketch”  atau disebut
 📷 Gambar Tampilan Arduino IDE:
 Gambar Software arduino UNO :
 <img width="470" height="384" alt="image" src="https://github.com/user-attachments/assets/93dbe829-3c8f-4077-8d28-aa9f82e5b662" />
+
+
 
 💳 Contoh Komponen Elektronika Dasar
 Komponen	Gambar	Fungsi
@@ -46,11 +52,15 @@ Alat dan Bahan:
 💻 Skema Rangkaian:
 <img width="512" height="392" alt="image" src="https://github.com/user-attachments/assets/645a1a22-320a-4a78-b225-c4c954b24fcb" />
 
+
+
 💻 Simulasi Online:
 1. Buatlah Akun Thinkercard : https://www.tinkercad.com/
 2. Silahkan buat project pada menu PROJECT > CIRCUITS
 3. Contoh virtual project di bawah :
    <iframe width="725" height="453" src="https://www.tinkercad.com/embed/2LW308OE6NY?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+   
+
 
 📌 Kesimpulan
 1. Arduino adalah alat yang mudah digunakan untuk belajar elektronika dan pemrograman.
