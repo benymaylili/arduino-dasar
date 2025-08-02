@@ -13,7 +13,7 @@ Penjelasan Singkat Bagian-bagian Penting:
 
 
 Bagian Arduino	Fungsi
-=========================================================================================
+======================
 USB Port	                Menghubungkan Arduino ke komputer untuk pemrograman dan daya
 Pin Digital (0–13)	      Digunakan untuk input/output digital (seperti tombol & LED)
 Pin Analog (A0–A5)	      Digunakan untuk membaca sinyal analog (misalnya sensor cahaya)
@@ -34,7 +34,7 @@ Screen Gambar : https://prnt.sc/9Nm7YLKqvrrW
 
 4. Contoh Komponen Elektronika Dasar
 Komponen	Gambar	Fungsi
-===========================================================================================
+========================
 
 LED	                    Mengeluarkan cahaya saat dialiri listrik     Gambar : https://prnt.sc/np2JjTEc-MIE
 Resistor	              Mengurangi arus listrik                      Gambar : https://prnt.sc/FmoJ9w4Y7WcZ
@@ -58,15 +58,18 @@ Kabel jumper
 Coding C++ arduino = https://prnt.sc/8ALPH2NT1B4N
 
 6. Kesimpulan
+   
 A. Arduino adalah alat yang mudah digunakan untuk belajar elektronika dan pemrograman.
 B. Arduino menggunakan bahasa pemrograman C++ dasar.
 C. Dengan Arduino, siswa bisa belajar logika, berpikir sistematis, dan kreativitas melalui eksperimen nyata.
 
 
-7. Tugas Praktik
+8. Tugas Praktik
+   
 Buat proyek kecil menggunakan Arduino dan LED:
 1. LED berkedip cepat dan lambat
 2. LED menyala ketika tombol ditekan
 3. Lampu lalu lintas sederhana
+
 
 Writter : Beny Maylili, Amd.Kom., S.Pd.I
