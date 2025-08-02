@@ -12,9 +12,7 @@ Screen gambar : https://prnt.sc/d3t6tuBl4umM
 📷 Gambar: Bagian-bagian Arduino Uno
 Penjelasan Singkat Bagian-bagian Penting:
 
-
 🤖 Bagian Arduino	Fungsi
-======================
 USB Port	                Menghubungkan Arduino ke komputer untuk pemrograman dan daya
 Pin Digital (0–13)	      Digunakan untuk input/output digital (seperti tombol & LED)
 Pin Analog (A0–A5)	      Digunakan untuk membaca sinyal analog (misalnya sensor cahaya)
@@ -37,8 +35,8 @@ Screen Gambar : https://prnt.sc/9Nm7YLKqvrrW
 Komponen	Gambar	Fungsi
 
 1. LED	                 Mengeluarkan cahaya saat dialiri listrik     Gambar : https://prnt.sc/np2JjTEc-MIE
-2. Resistor	              Mengurangi arus listrik                      Gambar : https://prnt.sc/FmoJ9w4Y7WcZ
-3. Push Button	           Saklar yang ditekan untuk memberi sinyal     Gambar : https://prnt.sc/UJReX-fhdBw_
+2. Resistor	             Mengurangi arus listrik                      Gambar : https://prnt.sc/FmoJ9w4Y7WcZ
+3. Push Button	         Saklar yang ditekan untuk memberi sinyal     Gambar : https://prnt.sc/UJReX-fhdBw_
 4. Breadboard	           Tempat menyusun rangkaian tanpa menyolder    Gambar : https://prnt.sc/ZRO9Kupf_mGu
 
 
