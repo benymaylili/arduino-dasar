@@ -35,13 +35,14 @@ Screen Gambar : https://prnt.sc/9Nm7YLKqvrrW
 4. Contoh Komponen Elektronika Dasar
 Komponen	Gambar	Fungsi
 ===========================================================================================
+
 LED	                    Mengeluarkan cahaya saat dialiri listrik     Gambar : https://prnt.sc/np2JjTEc-MIE
 Resistor	              Mengurangi arus listrik                      Gambar : https://prnt.sc/FmoJ9w4Y7WcZ
 Push Button	            Saklar yang ditekan untuk memberi sinyal     Gambar : https://prnt.sc/UJReX-fhdBw_
 Breadboard	            Tempat menyusun rangkaian tanpa menyolder    Gambar : https://prnt.sc/ZRO9Kupf_mGu
 
 
-5. Proyek Arduino Paling Sederhana: LED Blink
+6. Proyek Arduino Paling Sederhana: LED Blink
 Tujuan: Membuat LED berkedip.
 
 📷 Skema Rangkaian:
