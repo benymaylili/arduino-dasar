@@ -13,13 +13,7 @@ Screen gambar : https://prnt.sc/d3t6tuBl4umM
 Penjelasan Singkat Bagian-bagian Penting:
 
 🤖 Bagian Arduino	Fungsi
-USB Port	                Menghubungkan Arduino ke komputer untuk pemrograman dan daya
-Pin Digital (0–13)	      Digunakan untuk input/output digital (seperti tombol & LED)
-Pin Analog (A0–A5)	      Digunakan untuk membaca sinyal analog (misalnya sensor cahaya)
-GND (Ground)	            Jalur tanah (negatif) untuk semua sirkuit
-5V	Output daya 5 volt    untuk komponen elektronik
-Reset Button	            Mengulang program dari awal
-IC (ATmega328)	          Otak dari Arduino – menjalankan program
+<img width="840" height="364" alt="image" src="https://github.com/user-attachments/assets/98f28111-1301-43e2-b24e-2e7879d84869" />
 
 Software Arduino (Arduino IDE)
 Arduino IDE (Intergrated Development Environment) adalah software open source yang dikembangkan oleh Arduino untuk memrogram Arduino.  Arduino IDE ini dapat di-download di situs resmi Arduino link : https://www.arduino.cc/en/software/
